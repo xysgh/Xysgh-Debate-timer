@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Sounds/Ding.wav</file>
+    </qresource>
+</RCC>
