@@ -1,5 +1,0 @@
-/home/disk/1/untitled/build/unknown-Debug/CMakeFiles/DebateTimer.dir
-/home/disk/1/untitled/build/unknown-Debug/CMakeFiles/edit_cache.dir
-/home/disk/1/untitled/build/unknown-Debug/CMakeFiles/rebuild_cache.dir
-/home/disk/1/untitled/build/unknown-Debug/CMakeFiles/DebateTimer_autogen_timestamp_deps.dir
-/home/disk/1/untitled/build/unknown-Debug/CMakeFiles/DebateTimer_autogen.dir
