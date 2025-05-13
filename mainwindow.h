@@ -40,8 +40,8 @@ private:
 
     int timeFreeA = 180;
     int timeFreeB = 180;
-    int timeSummaryA = 720;
-    int timeSummaryB = 720;
+    int timeSummaryA = 840;
+    int timeSummaryB = 840;
     int timeConclusionA = 120;  // A方总结时间
     int timeConclusionB = 120;  // B方总结时间
     bool running = false;

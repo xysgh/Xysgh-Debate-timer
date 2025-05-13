@@ -77,10 +77,10 @@ void MainWindow::switchSide() {
 }
 
 void MainWindow::resetTimer() {
-    timeFreeA = 300;
-    timeFreeB = 300;
-    timeSummaryA = 180;
-    timeSummaryB = 180;
+    timeFreeA = 180;
+    timeFreeB = 180;
+    timeSummaryA = 840;
+    timeSummaryB = 840;
     timeConclusionA = 120;
     timeConclusionB = 120;
     running = false;
